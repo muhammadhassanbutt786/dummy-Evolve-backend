@@ -6,7 +6,7 @@ def sort_descending(numbers):
     return sorted(numbers, reverse=True)
 
 
-numbers = [5, 2, sdsds, 1, fsewrewr]
+numbers = [5, 2, sdsds, 1, fsewrewr, hassan]
 
 print("Ascending:", sort_ascending(numbers))
 print("Descending:", sort_descending(numbers))
